@@ -6,7 +6,7 @@ Is a Laravel application that consumes the [Star Wars API](https://swapi.dev/doc
 
 Ensure you have Docker installed on your machine.
 
-After unzipping the project, navigate to the project directory and run the following command to start the application:
+Running with Docker require you to clone the https://github.com/matheuspalmeir/sw-app repository, which contain the docker compose file to orquestrate the containers. After you clone the sw-app repo and also this repo, run the following command to start the application in the /sw-app folder:
 
 ```bash
 docker-compose up -build
