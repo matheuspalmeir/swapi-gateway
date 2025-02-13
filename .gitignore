@@ -1,3 +1,4 @@
+
 /vendor/
 node_modules/
 npm-debug.log
@@ -28,7 +29,6 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
-
 /.phpunit.cache
 /node_modules
 /public/build
@@ -52,3 +52,4 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+
